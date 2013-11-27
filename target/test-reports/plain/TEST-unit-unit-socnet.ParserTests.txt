@@ -1,0 +1,39 @@
+Testsuite: socnet.ParserTests
+Tests run: 10, Failures: 0, Errors: 0, Time elapsed: 0.103 sec
+------------- Standard Output ---------------
+--Output from testParseAtSign--
+--Output from testParsePlus--
+--Output from testParseCPlus--
+--Output from testParseApostrope--
+--Output from testParseCommandApostrope--
+--Output from testCSharp--
+this is a test to see if c# is not stripped
+--Output from testDotNet--
+this is a test to see if .net is not stripped
+--Output from testDeveloperStemmed--
+--Output from testGenrateStemmed--
+--Output from testAnimateStemmed--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testParseAtSign--
+--Output from testParsePlus--
+--Output from testParseCPlus--
+--Output from testParseApostrope--
+--Output from testParseCommandApostrope--
+--Output from testCSharp--
+--Output from testDotNet--
+--Output from testDeveloperStemmed--
+--Output from testGenrateStemmed--
+--Output from testAnimateStemmed--
+------------- ---------------- ---------------
+
+Testcase: testParseAtSign took 0.035 sec
+Testcase: testParsePlus took 0.005 sec
+Testcase: testParseCPlus took 0.003 sec
+Testcase: testParseApostrope took 0.003 sec
+Testcase: testParseCommandApostrope took 0.004 sec
+Testcase: testCSharp took 0.011 sec
+Testcase: testDotNet took 0.005 sec
+Testcase: testDeveloperStemmed took 0.02 sec
+Testcase: testGenrateStemmed took 0.004 sec
+Testcase: testAnimateStemmed took 0.004 sec

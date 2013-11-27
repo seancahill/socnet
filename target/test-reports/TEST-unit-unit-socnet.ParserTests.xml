@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="sean-PC" name="socnet.ParserTests" tests="10" time="0.103" timestamp="2011-09-12T14:30:26">
+  <properties />
+  <testcase classname="socnet.ParserTests" name="testParseAtSign" time="0.035" />
+  <testcase classname="socnet.ParserTests" name="testParsePlus" time="0.0050" />
+  <testcase classname="socnet.ParserTests" name="testParseCPlus" time="0.0030" />
+  <testcase classname="socnet.ParserTests" name="testParseApostrope" time="0.0030" />
+  <testcase classname="socnet.ParserTests" name="testParseCommandApostrope" time="0.0040" />
+  <testcase classname="socnet.ParserTests" name="testCSharp" time="0.011" />
+  <testcase classname="socnet.ParserTests" name="testDotNet" time="0.0050" />
+  <testcase classname="socnet.ParserTests" name="testDeveloperStemmed" time="0.02" />
+  <testcase classname="socnet.ParserTests" name="testGenrateStemmed" time="0.0040" />
+  <testcase classname="socnet.ParserTests" name="testAnimateStemmed" time="0.0040" />
+  <system-out><![CDATA[--Output from testParseAtSign--
+--Output from testParsePlus--
+--Output from testParseCPlus--
+--Output from testParseApostrope--
+--Output from testParseCommandApostrope--
+--Output from testCSharp--
+this is a test to see if c# is not stripped
+--Output from testDotNet--
+this is a test to see if .net is not stripped
+--Output from testDeveloperStemmed--
+--Output from testGenrateStemmed--
+--Output from testAnimateStemmed--
+]]></system-out>
+  <system-err><![CDATA[--Output from testParseAtSign--
+--Output from testParsePlus--
+--Output from testParseCPlus--
+--Output from testParseApostrope--
+--Output from testParseCommandApostrope--
+--Output from testCSharp--
+--Output from testDotNet--
+--Output from testDeveloperStemmed--
+--Output from testGenrateStemmed--
+--Output from testAnimateStemmed--
+]]></system-err>
+</testsuite>

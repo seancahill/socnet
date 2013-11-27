@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="sean-PC" name="socnet.UserIdentityTests" tests="2" time="0.909" timestamp="2011-09-12T14:30:26">
+  <properties />
+  <testcase classname="socnet.UserIdentityTests" name="testCreateSomething" time="0.826">
+    <failure message="junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;
+	at socnet.UserIdentityTests.testCreateSomething(UserIdentityTests.groovy:21)
+</failure>
+  </testcase>
+  <testcase classname="socnet.UserIdentityTests" name="testContraints" time="0.079" />
+  <system-out><![CDATA[--Output from testCreateSomething--
+--Output from testContraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from testCreateSomething--
+--Output from testContraints--
+]]></system-err>
+</testsuite>

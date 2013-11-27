@@ -1,0 +1,13 @@
+--Output from testParseAtSign--
+--Output from testParsePlus--
+--Output from testParseCPlus--
+--Output from testParseApostrope--
+--Output from testParseCommandApostrope--
+--Output from testCSharp--
+this is a test to see if c# is not stripped
+--Output from testDotNet--
+this is a test to see if .net is not stripped
+--Output from testDeveloperStemmed--
+--Output from testGenrateStemmed--
+--Output from testAnimateStemmed--
+

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="0" name="ApiControllerTests" package="socnet" tests="1" time="1.103" timestamp="2011-09-12T14:30:24">
+      <properties />
+
+      <testcase classname="socnet.ApiControllerTests" name="testSomething" time="1.081" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="1" name="ApplicationControllerTests" package="socnet" tests="1" time="0.141" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.ApplicationControllerTests" name="testSomething" time="0.139" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="2" name="ApplicationTests" package="socnet" tests="1" time="0.0060" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.ApplicationTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="3" name="DemoUserControllerTests" package="socnet" tests="1" time="0.109" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.DemoUserControllerTests" name="testSomething" time="0.107" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="4" name="DemoUserTests" package="socnet" tests="1" time="0.0080" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.DemoUserTests" name="testSomething" time="0.0050" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="5" name="KeywordControllerTests" package="socnet" tests="1" time="0.055" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.KeywordControllerTests" name="testSomething" time="0.052" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="6" name="KeywordTests" package="socnet" tests="1" time="0.0060" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.KeywordTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="7" name="LocationTests" package="socnet" tests="1" time="0.0070" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.LocationTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="8" name="LoginTagLibTests" package="socnet" tests="1" time="0.076" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.LoginTagLibTests" name="testSomething" time="0.075" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="9" name="LoginUserTests" package="socnet" tests="1" time="0.0070" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.LoginUserTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="10" name="ParserTests" package="socnet" tests="10" time="0.103" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.ParserTests" name="testParseAtSign" time="0.035" />
+
+      <testcase classname="socnet.ParserTests" name="testParsePlus" time="0.0050" />
+
+      <testcase classname="socnet.ParserTests" name="testParseCPlus" time="0.0030" />
+
+      <testcase classname="socnet.ParserTests" name="testParseApostrope" time="0.0030" />
+
+      <testcase classname="socnet.ParserTests" name="testParseCommandApostrope" time="0.0040" />
+
+      <testcase classname="socnet.ParserTests" name="testCSharp" time="0.011" />
+
+      <testcase classname="socnet.ParserTests" name="testDotNet" time="0.0050" />
+
+      <testcase classname="socnet.ParserTests" name="testDeveloperStemmed" time="0.02" />
+
+      <testcase classname="socnet.ParserTests" name="testGenrateStemmed" time="0.0040" />
+
+      <testcase classname="socnet.ParserTests" name="testAnimateStemmed" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testParseAtSign--
+--Output from testParsePlus--
+--Output from testParseCPlus--
+--Output from testParseApostrope--
+--Output from testParseCommandApostrope--
+--Output from testCSharp--
+this is a test to see if c# is not stripped
+--Output from testDotNet--
+this is a test to see if .net is not stripped
+--Output from testDeveloperStemmed--
+--Output from testGenrateStemmed--
+--Output from testAnimateStemmed--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testParseAtSign--
+--Output from testParsePlus--
+--Output from testParseCPlus--
+--Output from testParseApostrope--
+--Output from testParseCommandApostrope--
+--Output from testCSharp--
+--Output from testDotNet--
+--Output from testDeveloperStemmed--
+--Output from testGenrateStemmed--
+--Output from testAnimateStemmed--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="11" name="ProfileServiceTests" package="socnet" tests="1" time="0.0080" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.ProfileServiceTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="12" name="UserControllerTests" package="socnet" tests="1" time="0.171" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.UserControllerTests" name="testSomething" time="0.168" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="13" name="UserDTOTests" package="socnet" tests="1" time="0.013" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.UserDTOTests" name="testSomething" time="0.0060" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="14" name="UserIdentityControllerTests" package="socnet" tests="1" time="0.02" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.UserIdentityControllerTests" name="testSomething" time="0.017" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="sean-PC" id="15" name="UserIdentityTests" package="socnet" tests="2" time="0.909" timestamp="2011-09-12T14:30:26">
+      <properties />
+
+      <testcase classname="socnet.UserIdentityTests" name="testCreateSomething" time="0.826">
+          <failure message="junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;
+	at socnet.UserIdentityTests.testCreateSomething(UserIdentityTests.groovy:21)
+</failure>
+
+      </testcase>
+
+      <testcase classname="socnet.UserIdentityTests" name="testContraints" time="0.079" />
+
+      <system-out><![CDATA[--Output from testCreateSomething--
+--Output from testContraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testCreateSomething--
+--Output from testContraints--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="16" name="UserStopControllerTests" package="socnet" tests="1" time="0.112" timestamp="2011-09-12T14:30:27">
+      <properties />
+
+      <testcase classname="socnet.UserStopControllerTests" name="testSomething" time="0.107" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="17" name="UserStopTests" package="socnet" tests="1" time="0.0080" timestamp="2011-09-12T14:30:28">
+      <properties />
+
+      <testcase classname="socnet.UserStopTests" name="testSomething" time="0.0060" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-PC" id="18" name="UserTests" package="socnet" tests="1" time="0.0090" timestamp="2011-09-12T14:30:28">
+      <properties />
+
+      <testcase classname="socnet.UserTests" name="testSomething" time="0.0050" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

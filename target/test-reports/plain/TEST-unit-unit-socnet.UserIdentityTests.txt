@@ -1,0 +1,18 @@
+Testsuite: socnet.UserIdentityTests
+Tests run: 2, Failures: 1, Errors: 0, Time elapsed: 0.909 sec
+------------- Standard Output ---------------
+--Output from testCreateSomething--
+--Output from testContraints--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testCreateSomething--
+--Output from testContraints--
+------------- ---------------- ---------------
+
+Testcase: testCreateSomething took 0.825 sec
+	FAILED
+junit.framework.AssertionFailedError: expected:<1> but was:<0>
+junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: expected:<1> but was:<0>
+	at socnet.UserIdentityTests.testCreateSomething(UserIdentityTests.groovy:21)
+
+Testcase: testContraints took 0.079 sec
